@@ -17,6 +17,9 @@ Automated software delivery, testing and deployment workflows.
 ₿ **[Really Easy Bitcoin](https://github.com/aeonine/really-easy-bitcoin)**  
 Portable Bitcoin validator and wallet environment with verified Bitcoin Core, bundled Tor and Sparrow.
 
+Ξ **[Really Easy Ethereum](https://github.com/aeonine/really-easy-ethereum)**  
+Portable Ethereum validator node and signer environment with verified Geth, Lighthouse and Clef.
+
 🧪 **[Chemical computation simulations](https://github.com/aeonine/CSC3431-CW2)**  
 Deterministic and stochastic modelling of bistable reaction systems.
 
