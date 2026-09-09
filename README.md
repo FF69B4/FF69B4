@@ -1,6 +1,6 @@
-# Hi, I'm Ina!
+# Hello!
 
-I'm a graduate software engineer building projects involving:
+I'm Ina! I'm a graduate software engineer building projects involving:
 
 🧬 Computational biology  
 ⚙️ Infrastructure engineering  
