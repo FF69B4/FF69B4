@@ -5,6 +5,7 @@ I'm Ina! I'm a graduate software engineer building projects involving:
 🧬 Computational biology  
 ⚙️ Infrastructure engineering  
 🧠 Optimisation and machine learning  
+⚙️ Kernel Drivers
 
 ## Selected work
 
