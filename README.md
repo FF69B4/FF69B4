@@ -22,11 +22,5 @@ Comparing evolutionary and swarm-based optimisation methods.
 
 ## Currently building
 
-🏗️ **Beige Systems**  
-Private infrastructure platform exploring metadata-driven orchestration and service management.
-
-🎼 **Symphony**  
-Runtime and orchestration layer for building, deploying and managing distributed game services.
-
-🎮 **Engram**  
-A minecraft server built using Symphony, exploring large-scale game systems and economies.
+⚙️ **[sx126x Kernel Driver](https://github.com/FF69B4/linux-sx126x)**
+A general-purpose kernel driver implementation for the Semtech sx126x series of radio module.
