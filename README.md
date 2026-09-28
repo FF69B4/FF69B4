@@ -7,7 +7,7 @@ I'm Ina! I'm a graduate software engineer building projects involving:
 🧠 Optimisation and machine learning  
 ⚙️ Kernel Drivers
 
-## Selected work
+## Highlighted projects
 
 🧬 **[DNA reaction rate prediction](https://github.com/aeonine/CSC3094-Dissertation)**  
 Machine learning for predicting DNA strand displacement kinetics.
@@ -21,7 +21,7 @@ Deterministic and stochastic modelling of bistable reaction systems.
 🧠 **[Optimisation algorithms](https://github.com/aeonine/CSC3431-CW1)**  
 Comparing evolutionary and swarm-based optimisation methods.
 
-## Currently building
+## Currently working on...
 
 ⚙️ **[sx126x Kernel Driver](https://github.com/FF69B4/linux-sx126x)**
 A general-purpose kernel driver implementation for the Semtech sx126x series of radio module.
